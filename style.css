@@ -1,11 +1,11 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(73, 57, 88);
     color: black;
     font-display: optional;
     margin:0px;
 }
 h1{
-    color: blueviolet;
+    color: rgb(156, 79, 228);
     font-size: 40px;
 }
 p{
